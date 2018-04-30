@@ -1,0 +1,11 @@
+name: Report-ZeroTouch_Edition
+author: HonorGamerHD
+api: 
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+version: 1.0
+main: Report\Report
+commands:
+ report:
+  discription: "Report Players"
