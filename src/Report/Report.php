@@ -15,12 +15,13 @@ class Report extends PluginBase{
 
   public function onEnable(){
 
- $this->getLogger()->info("§c≥§7===============================§c≤");
-  $this->getLogger()->info("§eReport ZeroTouch Edtion");
+$this->getLogger()->info("§c≥§7===============================§c≤");
+$this->getLogger()->info("§eReport ZeroTouch Edtion");
+this->getLogger()->info("§eby HonorGamerHD");	
 $this->getLogger()->info("§eLanguage: deu");
 $this->getLogger()->info("§eVersion: 1.0");
 $this->getLogger()->info("§ePassed for MCBE Version: 1.2.13-1.2.14");
- $this->getLogger()->info("§c≥§7===============================§c≤");
+$this->getLogger()->info("§c≥§7===============================§c≤");
       }
 
   public function onDisable(){}
