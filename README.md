@@ -1,4 +1,4 @@
-**German Version Below!! | Deutsche Version darunter!!
+**German Version Below!! | Deutsche Version darunter!!**
 
 # English: Report-ZeroTouch-Edition
 Report Plugin in ZeroTouch Edition!!
@@ -8,11 +8,12 @@ Report Plugin in ZeroTouch Edition!!
 - Pocketmine 
 - Genisys
 - GoMint
+- and other forks of Pocketmine!
 
 **Supported Language:**
 
 - German
-only German but English and other will added soon!
+- only German but English and other will added soon!
  
 **How to use?**
  
@@ -40,12 +41,12 @@ Thanks to all People Ego use this Plugin!
 - Pocketmine
 - Altay Turanic Pro
 - GoMint
-Und andere Forks von Pocketmine!
+- Und andere Forks von Pocketmine!
 
 **Unterstützte Sprachen:**
 
--Deutsch
-weiter Sprachen werden bald hinzugefügt!
+- Deutsch
+- weiter Sprachen werden bald hinzugefügt!
 
 **Wie benutzt man dieses Plugin?**
 
