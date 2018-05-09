@@ -26,7 +26,7 @@ $this->getLogger()->info("§c≥§7===============================§c≤");
 
   public function onDisable(){}
 
-   public function onCommand(CommandSender $sender, Command $command, string $label, array $args):bool {
+   public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
   if($sender instanceof Player){
         switch(strtolower($command->getName())){
            case "report":
@@ -59,7 +59,7 @@ $this->getLogger()->info("§c≥§7===============================§c≤");
              }
        } else {
     $sender->sendMessage($this->tag."Dieser Command kann nur Ingame Benutzt werden!");
-      return true;       
-      }
-  }
+     }
+return true;
+   }
 }
