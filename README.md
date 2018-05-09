@@ -7,7 +7,7 @@ Report Plugin in ZeroTouch Edition!!
 
 - Pocketmine 
 - Genisys
-- GoMint
+- Altay Turanic Pro
 - and other forks of Pocketmine!
 
 **Supported Language:**
@@ -40,7 +40,7 @@ Thanks to all People Ego use this Plugin!
  
 - Pocketmine
 - Altay Turanic Pro
-- GoMint
+- Genisys
 - Und andere Forks von Pocketmine!
 
 **Unterstützte Sprachen:**
