@@ -38,14 +38,14 @@ $this->getLogger()->info("§c≥§7===============================§c≤");
   $pl = $sender->getServer()->getPlayer($args[0]);
   if($pl instanceof Player){
     if(isset($args[1])){
-  $motivo = implode(" ", $args);
-								$worte = explode(" ", $motivo);
-								unset($worte[0]);
-								$motivo = implode(" ", $worte);
+  $grund = implode(" ", $args);
+								$text = explode(" ", $grund);
+								unset($text[0]);
+								$grund = implode(" ", $text);
          $sender->sendMessage($this->tag."§aVielen Dank für deinen Report!");
      foreach($this->getServer()->getOnlinePlayers() as $p){
 									if($p->isOp()){
-										$p->sendMessage("§7<=---------=>\n§8 - §aNeuer Report§7:\n §8- §eReporteter Spieler§7: ".$args[0]."\n§8 - §aGrund§7: ".$motivo."\n§8 - §aReportet von§7: ".$sender->getName()."\n§8 - §aIP-Adresse§7: ".$pl->getAddress()."\n§8 - §aSpieler CID§7: ".$pl->getClientId()."\n§7<=---------=>");
+										$p->sendMessage("§7<=---------=>\n§8 - §aNeuer Report§7:\n §8- §eReporteter Spieler§7: ".$args[0]."\n§8 - §aGrund§7: ".$grund."\n§8 - §aReportet von§7: ".$sender->getName()."\n§8 - §aIP-Adresse§7: ".$pl->getAddress()."\n§8 - §aSpieler CID§7: ".$pl->getClientId()."\n§7<=---------=>");
                   }
             }
        } else {
