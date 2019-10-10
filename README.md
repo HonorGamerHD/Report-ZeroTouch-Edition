@@ -1,4 +1,4 @@
-**German Version Below!! | Deutsche Version darunter!!**
+**German Version Below!! | | | Deutsche Version darunter!!!!!!!**
 
 # English: Report-ZeroTouch-Edition
 Report Plugin in ZeroTouch Edition!!
